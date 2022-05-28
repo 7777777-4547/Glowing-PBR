@@ -1,2 +1,2 @@
 # Glowing-PBR
-Glowing PBR format
+Glowing labPBR format
